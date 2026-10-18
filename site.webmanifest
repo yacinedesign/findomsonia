@@ -3,14 +3,14 @@
   "short_name": "Miss Soniax",
   "description": "Findomina y Dominatrix de lujo en Barcelona. Findom, Femdom y fetiche.",
   "lang": "es",
-  "start_url": "/",
-  "scope": "/",
+  "start_url": "./",
+  "scope": "./",
   "display": "browser",
   "background_color": "#0b0708",
   "theme_color": "#0b0708",
   "icons": [
-    { "src": "/icon-192.png?v=dd952b0a1c", "sizes": "192x192", "type": "image/png", "purpose": "any" },
-    { "src": "/icon-512.png?v=7b8891bab9", "sizes": "512x512", "type": "image/png", "purpose": "maskable" },
-    { "src": "/favicon.svg?v=f990c1d586", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+    { "src": "./icon-192.png?v=dd952b0a1c", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "./icon-512.png?v=7b8891bab9", "sizes": "512x512", "type": "image/png", "purpose": "maskable" },
+    { "src": "./favicon.svg?v=f990c1d586", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
   ]
 }
